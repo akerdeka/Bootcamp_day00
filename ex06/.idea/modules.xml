@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ex00/.idea/ex00.iml" filepath="$PROJECT_DIR$/../ex00/.idea/ex00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ex01/.idea/ex01.iml" filepath="$PROJECT_DIR$/../ex01/.idea/ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ex02/.idea/ex02.iml" filepath="$PROJECT_DIR$/../ex02/.idea/ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ex03/.idea/ex03.iml" filepath="$PROJECT_DIR$/../ex03/.idea/ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ex04/.idea/ex04.iml" filepath="$PROJECT_DIR$/../ex04/.idea/ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ex05/.idea/ex05.iml" filepath="$PROJECT_DIR$/../ex05/.idea/ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ex06.iml" filepath="$PROJECT_DIR$/.idea/ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ex07/.idea/ex07.iml" filepath="$PROJECT_DIR$/../ex07/.idea/ex07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ex08/.idea/ex08.iml" filepath="$PROJECT_DIR$/../ex08/.idea/ex08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ex09/.idea/ex09.iml" filepath="$PROJECT_DIR$/../ex09/.idea/ex09.iml" />
+    </modules>
+  </component>
+</project>
